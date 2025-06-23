@@ -41,4 +41,12 @@ An intelligent system that allows users to ask natural language questions about 
 ---
 
 ## 📂 Project Structure
-
+ai_insight_app/
+├── main.py # FastAPI backend
+├── streamlit_app.py # Streamlit frontend
+├── query_handler.py # Core NLP + DB handler
+├── chart_generator.py # Matplotlib chart renderer
+├── groq_helper.py # Groq + fallback logic
+├── sample_data_generator.py # Generate 3 weeks of data
+├── .env.example # Example environment config
+├── requirements.txt # Python dependencies
