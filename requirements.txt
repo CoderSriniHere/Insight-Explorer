@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+psycopg2
+pymongo
+python-dotenv
+google-generativeai
+matplotlib
