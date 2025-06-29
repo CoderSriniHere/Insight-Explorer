@@ -38,7 +38,9 @@ An intelligent system that allows users to ask natural language questions about 
 | Charting      | `matplotlib`, `pandas`            |
 | Data Format   | JSON                              |
 
----
+![Screenshot (30)](https://github.com/user-attachments/assets/53cfb0f4-14a7-4d9b-97e6-44ca02a8d648)
+![Screenshot (26)](https://github.com/user-attachments/assets/290e91d5-0381-4f52-a7a9-1fb7651de8e5)
+
 
 ## 📂 Project Structure
 ai_insight_app/
